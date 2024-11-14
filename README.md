@@ -78,14 +78,7 @@
 <p align="center">
   If you enjoy my work, consider buying me a coffee or supporting open-source development!
 </p>
-<p align="center">
-  <a href="https://ko-fi.com/rahuldkjain" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://paypal.me/rahuldkjain" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</p>
+
 
 <p align="center">
   Created with ❤️ in India
