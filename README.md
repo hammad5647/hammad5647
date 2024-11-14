@@ -25,6 +25,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/hammad-ansari-63469031a" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://github.com/hammad5647" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
   <a href="https://instagram.com/fst_hammad_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
